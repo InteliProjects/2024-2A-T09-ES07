@@ -17,15 +17,20 @@ Otimização do processo de acompanhamento das mudanças regulatórias na indús
 
 - Grupo 1 - G1
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T09-ES07-G01
+  - https://github.com/Inteli-College/2024-2A-T09-ES07-G01
 
 - Grupo 2 - Law Hunter
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T09-ES07-G02
+  - https://github.com/Inteli-College/2024-2A-T09-ES07-G02
 
 - Grupo 3 - G3
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T09-ES07-G03
+  - https://github.com/Inteli-College/2024-2A-T09-ES07-G03
 
 - Grupo 4 - G4
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T09-ES07-G04
+  - https://github.com/Inteli-College/2024-2A-T09-ES07-G04
 
 - Grupo 5 - G5
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T09-ES07-G05
+  - https://github.com/Inteli-College/2024-2A-T09-ES07-G05
